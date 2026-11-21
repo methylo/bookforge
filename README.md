@@ -1,5 +1,9 @@
 # bookforge
 
+> 책 〈클로드 스킬 가이드〉 — [예스24에서 보기](https://www.yes24.com/product/goods/199636519)
+>
+> 독자 단톡방 「AI 책쓰기: 집필의 기술」 — [카카오톡 오픈채팅 참여](https://open.kakao.com/o/ghqbvP0h)
+
 **주제 한 줄 → 상업도서급 전자책 PDF.** Claude Code와 OpenAI Codex 양쪽에서 동작하는 에이전트 스킬입니다.
 
 [English](README.en.md)
